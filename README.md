@@ -1,25 +1,28 @@
 ##01 - JavaScript introdução a Orientação a Objetos
-
-*Dominando o paradigma de programação mais usado no mercado
-*Entendendo o que são referências e objetos
-*Usando atributos, métodos da instância e da classe
-*Definindo objetos através de construtores
-*Aprendendo sobre encapsulamento
-
+<ul>
+<li>*Dominando o paradigma de programação mais usado no mercado</li>
+<li>*Entendendo o que são referências e objetos</li>
+<li>*Usando atributos, métodos da instância e da classe</li>
+<li>*Definindo objetos através de construtores</li>
+<li>*Aprendendo sobre encapsulamento</li>
+</ul>
 
 
 ##02 - JavaScript Interfaces e Herança em Orientação a Objetos
+<ul>
+<li>*Aprofundando conhecimentos em Orientação a objetos</li>
+<li>*"DuckType"</li>
+<li>*Entendendo quando e como usar herança dentro de seus projetos</li>
+<li>*Conhecendo boas práticas de programação</li>
+<li>*Código JavaScript moderno que você pode utilizar em seus projetos</li>
+</ul>
 
-*Aprofundando conhecimentos em Orientação a objetos
-*"DuckType"
-*Entendendo quando e como usar herança dentro de seus projetos
-*Conhecendo boas práticas de programação
-*Código JavaScript moderno que você pode utilizar em seus projetos
 
 ##03 - Fetch API Consumindo uma API Rest com JavaScript
-
-*Aprendendo a consumir dados de uma API e exibir no seu front-end.
-*Entendendo como utilizar o método fetch para consumir dados de uma API.
-*Criando um CRUD utilizando o método fetch e os verbos HTTP.
-*Manipulando os verbos HTTP através do método fetch.
-*Aprendendo como funcionam as promises no JavaScript.
+<ul>
+<li>*Aprendendo a consumir dados de uma API e exibir no seu front-end.</li>
+<li>*Entendendo como utilizar o método fetch para consumir dados de uma API.</li>
+<li>*Criando um CRUD utilizando o método fetch e os verbos HTTP.</li>
+<li>*Manipulando os verbos HTTP através do método fetch.</li>
+<li>*Aprendendo como funcionam as promises no JavaScript.</li>
+</ul>
