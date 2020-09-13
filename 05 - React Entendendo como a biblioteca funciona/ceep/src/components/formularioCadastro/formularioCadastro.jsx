@@ -7,7 +7,19 @@ constructor(props){
     super(props);
     this.titulo="";
     this.texto="";
+    this.categoria="";
+    this.state = {categorias:[]}
 }
+
+componentDidMount(){
+    this.props.categorias.inscrever(this._novasCategorias.bind(this));
+  }
+
+  _novasCategorias(categorias){
+    this.setState({...this.state, categorias});
+  } 
+
+
 _handleChangeTile(ev){
     ev.stopPropagation();
     this.titulo = ev.target.value;
@@ -16,10 +28,14 @@ _handleChangeText(ev){
     ev.stopPropagation();
     this.texto = ev.target.value;
 }
+_handleChangeCategoria(ev){
+    ev.stopPropagation();
+    this.categoria = ev.target.value;
+}
 _criarNota(ev){
     ev.preventDefault();
     ev.stopPropagation();
-    this.props.criarNota(this.titulo,this.texto);
+    this.props.criarNota(this.titulo,this.texto,this.categoria);
 
     
 }
@@ -32,6 +48,14 @@ _criarNota(ev){
                 className="form-cadastro_input" 
                 onChange={this._handleChangeTile.bind(this)}
             />
+            <select className="form-cadastro_input"
+                onChange={this._handleChangeCategoria.bind(this)}
+            >
+                <option defaultChecked='true'>Sem categoria</option>
+                {this.state.categorias.map(((categoria, key)=>{
+                    return <option key={key}>{categoria}</option>
+                }))}
+            </select>
             <textarea 
                 placeholder="Escreva sua nota" 
                 className="form-cadastro_input" 

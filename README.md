@@ -1,3 +1,5 @@
+<h2>Resumo aprendizado Curso React</h2>
+
 #01 - JavaScript introdução a Orientação a Objetos
 <ul>
 <li>Dominando o paradigma de programação mais usado no mercado</li>
@@ -35,3 +37,26 @@
 <li>Utilizando o sistema de módulos do Javascript para proteger os arquivos.</li>
 <li>Trabalhando com componetização para facilitar a organização do projeto.</li>
 </ul>
+
+#05 - React: Entendendo como a biblioteca funciona
+<ul>
+<li>Aprenda a criar class components dentro do React</li>
+<li>Saiba como passar informações entre os componentes</li>
+<li>Entenda como o "this" funciona dentro do Javascript</li>
+<li>Crie Sites com mais facilidade</li>
+<li>Conheça como o React funciona para otimizar seus sites</li>
+</ul>
+
+#06 - Ciclo de vida dos componentes
+<ul>
+<li>Aprendendo sobre o ciclo de vida dos componentes React</li>
+<li>Entendendo os possíveis problemas de performance da aplicação</li>
+<li>Adicionando o padrão de projetos Observable em seus sites</li>
+<li>Conheçendo diferentes forma de carregar um SVG dentro do site</li>
+<li>Compreendendo a diferença entre Statefull e Stateless components</li>
+</ul>
+<h4>
+<a href="https://thiagomarcato1.websiteseguro.com/projects/react01/">
+Ver Build do curso
+</a>
+</h4>

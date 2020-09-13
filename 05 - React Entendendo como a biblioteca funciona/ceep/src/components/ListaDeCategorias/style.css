@@ -1,0 +1,26 @@
+.lista-categorias{
+    list-style: none;
+    display: inline;
+
+}
+
+.lista-categorias_item{
+    margin-top: 5px !important;
+    display: inline;
+    margin: 2vh;
+    background-color: #c9c9c9;
+    padding: 0.5vh;
+    border: solid 1px #a7a7a7;
+    border-radius: 3px;
+    vertical-align: baseline;
+}
+
+.lista-categorias_input{
+  display: inline;
+  border: solid 1px #a7a7a7;
+  border-radius: 3px;
+  margin-top: 3vh;
+  height: 18px !important;
+  vertical-align: baseline;
+  padding: 1vh;
+}
