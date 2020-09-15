@@ -55,8 +55,14 @@
 <li>Conheçendo diferentes forma de carregar um SVG dentro do site</li>
 <li>Compreendendo a diferença entre Statefull e Stateless components</li>
 </ul>
-<h4>
-<a href="https://thiagomarcato1.websiteseguro.com/projects/react01/" target="_blank">
-Ver Build do curso
-</a>
-</h4>
+<h4><a href="https://thiagomarcato1.websiteseguro.com/projects/react01/" target="_blank">Ver Build do curso funcionando</a></h4>
+
+#07 - React:Function Components, uma abordagem moderna
+<ul>
+<li>Aprenda a usar Hooks de maneira segura</li>
+<li>Entenda como trabalhar com Material UI</li>
+<li>Saiba criar Function Components</li>
+<li>Veja uma forma de fazer validação de dados em formulários</li>
+<li>Conheça os conceitos de formulários controlados e não controlados</li>
+</ul>
+<h4><a href="https://thiagomarcato1.websiteseguro.com/projects/react02/" target="_blank">Ver Build do curso funcionando</a></h4>
