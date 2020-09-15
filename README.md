@@ -56,7 +56,7 @@
 <li>Compreendendo a diferença entre Statefull e Stateless components</li>
 </ul>
 <h4>
-<a href="https://thiagomarcato1.websiteseguro.com/projects/react01/">
+<a href="https://thiagomarcato1.websiteseguro.com/projects/react01/" target="_blank">
 Ver Build do curso
 </a>
 </h4>
