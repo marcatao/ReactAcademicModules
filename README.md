@@ -65,4 +65,14 @@
 <li>Veja uma forma de fazer validação de dados em formulários</li>
 <li>Conheça os conceitos de formulários controlados e não controlados</li>
 </ul>
+
+#08 - React: Hooks, Contextos e boas práticas
+<ul>
+<li>Aprenda mais sobre Hooks</li>
+<li>Crie uma lógica de maquina de estados</li>
+<li>Utilize a context API para melhorar seu código</li>
+<li>Saiba as melhores práticas ao trabalhar com propriedades</li>
+<li>Conheça as técnicas de validação de dados em formulários</li>
+</ul>
+
 <h4><a href="https://thiagomarcato1.websiteseguro.com/projects/react02/" target="_blank">Ver Build do curso funcionando</a></h4>
